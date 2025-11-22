@@ -15,3 +15,10 @@ Denis will offer a gift to Denis
 André will offer a gift to André
 Daniel will offer a gift to Jacques
 ```
+
+# Roadmap
+* [ ] Simple script de tirage au sort
+* [ ] Plateforme web pour effectuer et archiver le résultat du tirage au sort
+* [ ] Module de gestion utilisateurs (authentification)
+* [ ] Interface web pour faire le compte exact des dépenses
+* [ ] Interface web pour déclarer les remboursements faits
